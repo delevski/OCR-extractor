@@ -2,7 +2,7 @@
 
 A modern, production-ready web application for Optical Character Recognition (OCR) powered by **DeepSeek-OCR**. Extract text from images, PDFs, and documents with advanced AI-powered recognition capabilities.
 
-![Screenshot](https://via.placeholder.com/1200x600/4F46E5/FFFFFF?text=OCR+Extractor+Web+App)
+![Main Screenshot](screenshots/main-interface.png)
 
 ## ✨ Features
 
@@ -35,17 +35,12 @@ A modern, production-ready web application for Optical Character Recognition (OC
 
 ## 📸 Screenshots
 
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Main+Interface+with+Task+Options)
+The OCR Extractor web app features a clean, modern interface with intuitive task selection, real-time processing, and comprehensive result management.
 
-### Results Panel
-![Results](https://via.placeholder.com/800x450/10B981/FFFFFF?text=OCR+Results+Panel)
+### Main Interface with Task Options
+![Main Interface](screenshots/main-interface.png)
 
-### History Panel
-![History](https://via.placeholder.com/800x450/8B5CF6/FFFFFF?text=History+Panel)
-
-### Cached Results
-![Cached](https://via.placeholder.com/800x450/EF4444/FFFFFF?text=Cached+Results+Badge)
+*Select from multiple OCR tasks including Markdown conversion, Free OCR, Location finding, Image description, and Custom prompts*
 
 ## 🚀 Quick Start
 
