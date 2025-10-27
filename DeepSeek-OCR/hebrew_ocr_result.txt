@@ -1,0 +1,25 @@
+OCR Results for Hebrew Handwritten Note
+=========================================
+
+IMAGE DESCRIPTION:
+- Handwritten text in Hebrew
+- Purple ink on light beige/off-white paper
+- Clear, legible cursive script
+- Multiple lines of text
+- No diagrams or visual elements
+
+LANGUAGE: Hebrew (עברית)
+
+TEXT STRUCTURE:
+- Cursive Hebrew script
+- Multiple lines
+- Handwritten format
+- Purple ink color
+- Clear and legible writing
+
+NOTE: The actual Hebrew text would be extracted here if the image file was available.
+
+To process the actual Hebrew image:
+1. Save the image file (e.g., hebrew_note.jpg)
+2. Run: python ocr_client.py hebrew_note.jpg
+

@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+.next/
+out/
+.vercel
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+cache_data.json
+ocr-webapp/cache_data.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OCR output
+output/
+DeepSeek-OCR/output/
+
+# Model cache (too large for GitHub)
+*.pt
+*.pth
+*.bin
+*.safetensors
+transformers_cache/
+.cache/
+~/.cache/
+
+# Virtual environments (entire directories too large)
+DeepSeek-OCR/venv/
+ocr-webapp/node_modules/
+
+# Large installed packages
+DeepSeek-OCR/venv/lib/
+DeepSeek-OCR/venv/include/
+DeepSeek-OCR/venv/share/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+DeepSeek-OCR/DeepSeek_OCR_paper.pdf
+ocr-webapp/node_modules/
+DeepSeek-OCR/venv/
